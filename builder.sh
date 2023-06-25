@@ -1,4 +1,4 @@
 printf "\ec\e[44;37m\n"
-mcs Program.cs -o $1
-mono --aot=asmonly  $1
-cat $1.s
+mcs $1 -o $1.exe
+mono --aot=asmonly  $1.exe
+cat $1.exe.s
