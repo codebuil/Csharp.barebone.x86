@@ -1,3 +1,4 @@
+printf "\ec\e[44;37m\n"
 rm *.o
 rm *.elf
 rm *.img
