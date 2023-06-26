@@ -1,2 +1,2 @@
-# Csharp.2.asm
-Converter from csharp into assemble lenguage
+# csharp.x86.barebone
+barebones to x86 operation system
